@@ -24,6 +24,11 @@
     - Working Directory, Staging Area, Repository
     - Commit, Branch, Merge의 개념
 
+#### 과정 링ㅋ 
+- [소스코드](./SourceCode.md)
+- [실습](./Exercise.md)
+- [강사가이드](./Guide.md)
+
 #### 실습 내용 (1시간 30분)
 1. **Git 설치 및 초기 설정**
    ```bash
